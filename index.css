@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: blue;
+  font-size: 35px;
+}
+div {
+  background-color: yellow;
+  padding-left: 15px;
+  margin-right: 20px;
+  margin-left: 10px;
+
+}
+.red {
+  background-color: brown;
+  font-size: 10px;
+}
+.black {
+  font-size: 13px
+  background-color: green;
+}
